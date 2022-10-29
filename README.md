@@ -1,8 +1,5 @@
 # SplashScreen with Java
 
+<img src="output_0.png" alt="Splash Screen" width=35% height=35%>
 
-[//]: # (![SplashScreen]&#40;output_0.png&#41;)
-
-<img src="output_0.png" width=50% height=50%>
-
-![MainActivity](output_1.png)
+<img src="output_1.png" alt="MainActivity" width=35% height=35%>
